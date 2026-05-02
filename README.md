@@ -1,7 +1,7 @@
 # Car Wash Application
 
 ## Project Overview
-This car wash application provides a user-friendly interface for customers to schedule car wash services. The application allows users to choose from various service packages, view available time slots, and make payments online.
+This car wash application provides a user-friendly interface for customers to schedule car wash services. The application allows users to choose from various service packages, view available time slots.
 
 ## Features
 - User Registration and Authentication
