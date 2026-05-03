@@ -9,7 +9,7 @@ This car wash application provides a user-friendly interface for customers to sc
 - Service Packages Selection
 - Online Payment Integration
 - User Dashboard to manage appointments
-- Admin Panel for managing services and users
+- Admin Panel for managing services and users.
 
 ## Technologies Used
 Based on the repository composition:
